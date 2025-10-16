@@ -1,5 +1,11 @@
 # tp_flutter_sqlite
 
+Les membres du groupe
+
+    OUEDRAOGO Alizeta
+    ZANGA Issa
+
+
 A new Flutter project.
 
 ## Getting Started
